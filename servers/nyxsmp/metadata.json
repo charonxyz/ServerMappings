@@ -6,14 +6,14 @@
     "addresses": [
         "nyxsmp.net"
     ],
-    "primaryAddress": "mc.nyxsmp.net",
+    "primaryAddress": "nyxsmp.net",
     "primaryColor": "#534AB7",
     "secondaryColor": "#7F77DD",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
-    "crossplay": false,
+    "crossplay": true,
     "offline": false,
     "primaryRegion": "EU",
     "regions": [
